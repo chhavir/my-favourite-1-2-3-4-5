@@ -1,0 +1,124 @@
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    font-family: roboto;
+    cursor: pointer;
+    color: aliceblue;
+    position: fixed;
+    list-style-type: none;
+}
+
+
+li {
+    display: inline;
+    float: right;
+    padding: 5px;
+}
+
+#wel {
+    background: linear-gradient(#70FFFF 0%, #5BCFCF 100%);
+}
+
+#abt {
+    background: linear-gradient(#F8FFA6 0%, #ADCAED 100%);
+}
+
+#pics {
+    background: linear-gradient(#ADEDB9 0%, #EDADD5 100%);
+}
+
+img {
+    height: 230px;
+    width: 350px;
+    border-radius: 4%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: roboto slab;
+    text-align: center;
+}
+
+
+
+#z {
+    font-family: arial;
+    font-size: 30px;
+    font-weight: 100;
+    margin: 5%;
+}
+
+#r {
+    font-size: 40px;
+    font-family: roboto slab;
+    font-weight: 400;
+    text-align: center;
+}
+
+#h {
+    font-family: roboto slab;
+    font-size: 30px;
+    font-weight: 100;
+    margin: 5%;
+}
+
+#books {
+    background: linear-gradient(#ADEDEA 0%, #EDADAE 100%);
+
+}
+
+#hobby {
+    background: linear-gradient(#ADFFB0 0%, #F3ADFF 100%);
+
+}
+
+#we {
+    height: 300px;
+    width: 200px;
+    border-radius: 4%;
+    text-align: center;
+    padding: 50px;
+}
+
+p1 {
+    font-size: 50px;
+    font-family: Colfax;
+    padding: 90px;
+}
+
+h3 {
+    font-size: 70px;
+    font-family: roboto slab;
+}
+
+#12f {
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+#myi {
+    background: linear-gradient(#FFFFFF 0%, #8B8C8C 100%);
+    text-align: center;
+}
+#contact {
+    background-color: lightcyan;
+
+}        .contact_1 h3 { display: inline; }
+
+
+#contact iframe {
+    width: 100%;
+}
+
+
+h3 {
+    font-size: 50px;
+
+}
+
